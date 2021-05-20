@@ -1,0 +1,25 @@
+
+
+h1{
+    border: solid;
+    background-color: lightyellow;
+}
+
+
+.zap{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   border: solid;
+    background-color:chartreuse;
+
+}
+.box{
+    border: solid;
+    border-color: darkorange;
+    border-style: dotted;
+}
+.zee{
+border: double;
+background-color: lightyellow;
+}
